@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Babel",
+		"Copy Relative Path",
+		"ERB Snippets",
+		"GitGutter",
+		"Highlight Trailing Whitespace",
+		"HTML Snippets",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - One Dark",
+		"Theme - Soda",
+		"Theme - TwoDark",
+		"Whitespace"
+	]
+}

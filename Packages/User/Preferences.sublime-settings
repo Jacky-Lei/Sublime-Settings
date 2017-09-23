@@ -1,0 +1,29 @@
+{
+	"binary_file_patterns":
+	[
+		".svn/",
+		".git/",
+		"node_modules/",
+		"bower_components/"
+	],
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/Theme - TwoDark/TwoDark.tmTheme",
+	"draw_shadows": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 17,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"smart_indent": false,
+	"tab_size": 2,
+	"theme": "TwoDark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
+}
